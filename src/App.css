@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+}
+
+.app__header {
+  box-sizing: border-box;
+  background-color: #222;
+  height: 200px;
+  padding: 10px 10px;
+  color: white;
+}
+
+.app__title {
+  font-size: 3em;
+}
